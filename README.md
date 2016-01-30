@@ -8,6 +8,13 @@ Designs of [Wapuu](https://github.com/jawordpressorg/wapuu) for Iron Beads, crea
 
 ![](screenshot.png?raw=true)
 
+## 関連リンク
+
+- [はじめてのアイロンビーズ-お気に入りのキャラでオリジナルグッズを作ろう！ | littlebird](http://littlebird.mobi/2015/12/ironbeads/)  
+「アイロンビーズわぷー」の制作過程については、こちらをお読みください。
+- [Sketch Iron Beads](https://github.com/littlebirdjp/sketch-ironbeads)  
+Sketch製のアイロンビーズ用テンプレート。「わぷー」以外の図案を作成したい方は、こちらをご利用ください。
+
 ------
 
 「わぷー」は、[ja.wordpress.org](https://ja.wordpress.org/)の公式キャラクターです。  
