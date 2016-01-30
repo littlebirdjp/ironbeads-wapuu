@@ -13,5 +13,5 @@ Designs of [Wapuu](https://github.com/jawordpressorg/wapuu) for Iron Beads, crea
 「わぷー」は、[ja.wordpress.org](https://ja.wordpress.org/)の公式キャラクターです。  
 WordPressソフトウェアと同様、「GPL バージョン2 またはそれ以降のバージョン」というライセンスのもとに公開されています。著作権は作者の[カネウチカズコ](http://blog.cgfm.jp/mutsuki/)さんに属します。
 
-"わぷー(Wapuu)" is [ja.wordpress.org](https://ja.wordpress.org/) official character.
-"わぷー(Wapuu)" was designed by [Kazuko Kaneuchi](http://blog.cgfm.jp/mutsuki/) under GPL v2 license or any later version.
+"Wapuu" is [ja.wordpress.org](https://ja.wordpress.org/) official character.
+"Wapuu" was designed by [Kazuko Kaneuchi](http://blog.cgfm.jp/mutsuki/) under GPL v2 license or any later version.
