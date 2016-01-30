@@ -1,2 +1,3 @@
-# ironbeads-wapuu
-Designs of Wapuu for Iron Beads, created by Sketch app.
+# Iron Beads Wapuu
+
+Designs of [Wapuu](https://github.com/jawordpressorg/wapuu) for Iron Beads, created by Sketch app.
